@@ -3,7 +3,7 @@
 Name:		drascula
 Version:	1.0
 Release:	%mkrel 1
-Summary:	Drascula: The Vampire Strikes Back - Adventure Game
+Summary:	: The Vampire Strikes Back - Adventure Game
 Group:		Games/Adventure
 License:	Freeware
 URL:		http://wiki.scummvm.org/index.php/Drascula:_The_Vampire_Strikes_Back
