@@ -61,7 +61,7 @@ EOF
 %__install -p -m 644 %{SOURCE3} %{buildroot}/%{scummvmdir}/%{name}
 
 %__mkdir_p %{buildroot}%{_datadir}/applications
-%__cat > %{buildroot}%{_datadir}/applications/%{vendor}-%{name}.desktop << EOF
+%__cat > %{buildroot}%{_datadir}/applications/%{name}.desktop << EOF
 [Desktop Entry]
 Encoding=UTF-8
 Name=Drascula: The Vampire Strikes Back
@@ -80,5 +80,5 @@ EOF
 %doc readme.txt drascula.doc
 %{_gamesbindir}/%{name}
 %{scummvmdir}/%{name}
-%{_datadir}/applications/%{vendor}-%{name}.desktop
+%{_datadir}/applications/%{name}.desktop
 
