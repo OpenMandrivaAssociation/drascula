@@ -2,7 +2,7 @@
 
 Name:		drascula
 Version:	1.0
-Release:	2
+Release:	3
 Summary:	The Vampire Strikes Back - Adventure Game
 Group:		Games/Adventure
 License:	Freeware
