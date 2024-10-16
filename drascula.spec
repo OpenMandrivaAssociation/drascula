@@ -6,7 +6,7 @@ Release:	4
 Summary:	The Vampire Strikes Back - Adventure Game
 Group:		Games/Adventure
 License:	Freeware
-URL:		http://wiki.scummvm.org/index.php/Drascula:_The_Vampire_Strikes_Back
+URL:		https://wiki.scummvm.org/index.php/Drascula:_The_Vampire_Strikes_Back
 Source0:	http://downloads.sourceforge.net/scummvm/%{name}-%{version}.zip
 Source1:	http://downloads.sourceforge.net/scummvm/%{name}-int-1.1.zip
 Source2:	http://downloads.sourceforge.net/scummvm/drascula-audio-2.0.zip
